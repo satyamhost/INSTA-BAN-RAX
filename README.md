@@ -24,11 +24,37 @@
 
 ## 🚀 INSTALLATION
 
+### KALI LINUX
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 git python3-pip -y
+git clone https://github.com/satyamhost/INSTA-BAN-RAX.git
+cd INSTA-BAN-RAX
+pip3 install -r requirements.txt
+python3 main.py
+
+```
+
 ### Termux
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/teamrax/rax-insta-banning
-cd rax-insta-banning
+git clone https://github.com/satyamhost/INSTA-BAN-RAX.git
+cd INSTA-RAX-BAN
 pip install -r requirements.txt
 python3 main.py
+```
+## 📺 VIDEO TUTORIAL
+Watch on YouTube: [@teamrax2.0](https://youtube.com/@teamrax2.0)
+
+## 🤖 TEAM RAX BOTS
+- **Face Swap:** @RAXFACESWAP_BOT
+- **Number to Location:** https://t.me/NUMBER_TO_LOCATION_RAXBOT
+- **RAX AI:** https://t.me/RAXAIBOT
+- **OSINT:** https://t.me/osint_teamrax_bot
+- **Insta Banning:** https://t.me/Insta_banning_raxbot
+
+## 📢 OFFICIAL LINKS
+- **Main Channel:** https://t.me/RAXFORPVT
+- **All About Owner:** https://t.me/Allaboutrax
+- **Team ID:** https://t.me/TEAMRAX0
